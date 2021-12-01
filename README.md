@@ -9,7 +9,7 @@ Client_Server contains all the code for the server and has examples for a lobby 
 
 Both are required to work. Inputs, users etc. are all defined in the server so the client can easily be kept seperate and requires minimal editing beyond the UI.
 
-On the server project make sure the menu, flappy and bomb scenes are added to the build scenes. Make sure the IP, Ports and Key are set correctly on the LitNetServer and LiteNetClient respectively.
+On the server project make sure the menu, flappy and bomb scenes are added to the build scenes. Make sure the IP, Ports and Key are set correctly on the LiteNetServer on the server manager and LiteNetClient on the client manager respectively.
 ![Output sample](https://github.com/Rexoto/UnityMobileController/blob/main/Media/ServerSettings.png)
 
 (Example using another Unity Editor and my phone as controllers)
